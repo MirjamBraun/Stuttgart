@@ -103,16 +103,16 @@
     <text>
         <body>
             <!-- Gleich werde ich den Seitenanfang durch das selbstschließene pb-Element einleiten und einen Verweis auf das Digitalisat einfügen -->
-            <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143b52c0-10.pdf?forcedownload=1"/>
+            <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143b52c0-10.pdf"/>
             <!-- Das stört etwas, aber leider müssen wir die Tagebucheinträge in ein Kapitel einordnen. Wir nehmen als "Kapitel" unsere Nummer vom Beginn -->   
             <div type="chapter" n="004">
                     <div type="diaryEntry" n="4">
                         <p>Tagebucheintrag 4
                    
-                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143bba35-11.pdf?forcedownload=1"/>
+                        <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143bba35-11.pdf"/>
                          Tagebucheintrag 4 wird fortgeführt</p>
                      
-                     <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143c267d-12.pdf?forcedownload=1"/>
+                     <pb facs="https://e-learning.hdm-stuttgart.de/moodle/pluginfile.php/459707/mod_folder/content/0/188143c267d-12.pdf"/>
                          Tagebucheintrag 4 wird fortgeführt</p>
                     </div>
                 <div type="diaryEntry" n="5">
